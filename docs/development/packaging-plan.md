@@ -31,9 +31,9 @@ ai-dev-cycle-template/
 │       ├── next-task.md                # Task selection command
 │       ├── finalize-task.md            # Task completion command
 │       └── update-prd.md               # PRD synchronization command
-├── .ai-context/
-│   ├── AI_CONTEXT_TEMPLATE.md          # Project context template
-│   └── WORKFLOW_GUIDE.md               # Implementation coordination guide
+├── .aicontext/
+│   ├── aicontext-template.md           # Project context template
+│   └── workflow-guide.md               # Implementation coordination guide
 ├── config/
 │   ├── project-config.template.json    # Generalized project configuration
 │   └── notion-schema.template.json     # Optional Notion database schema

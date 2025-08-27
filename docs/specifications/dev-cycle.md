@@ -1,6 +1,6 @@
 # AI-Powered Product Development Workflow
 
-**Note:** This document describes the high-level component development cycle. For detailed implementation guidance, AI coordination, and task management, see [WORKFLOW_GUIDE.md](../../.ai-context/WORKFLOW_GUIDE.md).
+**Note:** This document describes the high-level component development cycle. For detailed implementation guidance, AI coordination, and task management, see [workflow-guide.md](../../.aicontext/workflow-guide.md).
 
 ---
 ## 🧠 Step 1: Use the PRD as the Source of Truth

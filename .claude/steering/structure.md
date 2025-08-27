@@ -35,7 +35,7 @@ project-root/
 ├── config/                     # Configuration files
 ├── scripts/                    # Build and utility scripts
 ├── .claude/                    # AI coordination files
-├── .ai-context/               # AI knowledge base
+├── .aicontext/                # AI knowledge base
 ├── .github/                   # GitHub workflows (if using GitHub)
 └── deploy/                    # Deployment configurations
 ```

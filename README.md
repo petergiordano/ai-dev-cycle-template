@@ -126,9 +126,9 @@ Each component follows **SLC principles**:
 
 ```
 ai-dev-cycle-template/
-├── .ai-context/
-│   ├── AI_CONTEXT_TEMPLATE.md
-│   └── WORKFLOW_GUIDE.md
+├── .aicontext/
+│   ├── aicontext-template.md
+│   └── workflow-guide.md
 ├── .claude/
 │   ├── commands/
 │   │   ├── advanced/
@@ -399,7 +399,7 @@ Config → Authentication → Data Mapping → Processing → Validation → Res
 - **[Feature Spec Template](docs/specifications/FEATURE_SPEC_TEMPLATE.md)**: Component specification format
 - **[Component Library](docs/architecture/ComponentLibrary.md)**: Design patterns and standards
 - **[Experience Goals](docs/architecture/Experience_Goals.md)**: User experience guidelines
-- **[Workflow Guide](.ai-context/WORKFLOW_GUIDE.md)**: AI coordination details
+- **[Workflow Guide](.aicontext/workflow-guide.md)**: AI coordination details
 
 ## 🤝 Contributing
 
